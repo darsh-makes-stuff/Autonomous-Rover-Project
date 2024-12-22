@@ -1,0 +1,1 @@
+Hello, my name is Darsh. I'm working on a 3D-printed autonomous rover. I am 13 years old. While writing this it is Winter Break so I have a few weeks before I get busy with school. I've been working on the design since August and have finished it. I will order parts from Aliexpress soon. Here is a link to Tinker Cad: https://www.tinkercad.com/things/f1f7jGDrNBc-rover-design-v2
